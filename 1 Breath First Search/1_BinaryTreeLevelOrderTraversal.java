@@ -28,7 +28,7 @@ return its level order traversal as:
  * }
  */
 
-public class Solution {
+public class 1_BinaryTreeLevelOrderTraversal {
     /**
      * @param root: A Tree
      * @return: Level order a list of lists of integer
